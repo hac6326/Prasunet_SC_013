@@ -1,4 +1,4 @@
-# Prasunet_SC_013
+# Keylogger
 The Keylogger Tool is a Python-based program that captures and logs keystrokes on a computer. This tool uses the pynput library to listen to keyboard events and record them to a log file.
 
 # Features:
@@ -23,9 +23,9 @@ pynput Library: The tool requires the pynput library to be installed.
 
 # How To Install
 
-git clone https://github.com/hac6326/Prasunet_SC_013.git
+git clone https://github.com/hac6326/Prasunet_SC_04.git
 
-cd Prasunet_SC_013
+cd Prasunet_SC_04
 
 create folder "kelog.txt" and add path to the code "kelogger.py"
 
